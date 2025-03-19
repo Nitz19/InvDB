@@ -71,7 +71,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM product WHERE userID=".$_SESSION[
 				</table>	
 			</div>
 			<div class="card-footer text-center">
-				<p>Created by <a href="https://www.facebook.com/peko.cruz.7" target="_blank" class="text-primary">Group ni PEKO</a></p>
+				<p>Created by <a href="https://www.facebook.com/peko.cruz.7" target="_blank" class="text-primary">Group 9</a></p>
 			</div>
 		</div>
 	</div>
